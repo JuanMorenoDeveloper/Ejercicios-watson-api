@@ -1,0 +1,9 @@
+#Keys servicios watson (ver en api-watson-keys.properties)
+#Configuración servidor
+server:
+  context-path: /test-watson
+#Configuración joinfaces 
+jsf:
+  PROJECT_STAGE: Production
+  primefaces:
+    theme: omega
